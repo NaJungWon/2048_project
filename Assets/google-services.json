@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "433332188024",
+    "firebase_url": "https://project-8761f-default-rtdb.firebaseio.com",
+    "project_id": "project-8761f",
+    "storage_bucket": "project-8761f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433332188024:android:6d5fd059125c32ae16ce8d",
+        "android_client_info": {
+          "package_name": "com.company.bluesea2048"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnlUWnNCNiTDGtnShAT6395ZqsAcw4Pss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
